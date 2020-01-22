@@ -122,7 +122,7 @@ Vibra 3V
 
 [Kontakt via Homematic Forum](https://homematic-forum.de/forum/memberlist.php?mode=viewprofile&u=13127)
 
-
+Platine wird in Weiﬂ und mit Vergoldeten Kontakten ausgeliefert!!! 
 
 ![complete](Images/1.jpg)
 ![complete](Images/2.jpg)
