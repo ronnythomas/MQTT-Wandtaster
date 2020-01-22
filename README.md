@@ -16,7 +16,7 @@
 8-25V DC oder 5V DC max.500mA<br />
 
 
-## Bauteilliste komplett
+## Bauteilliste komplett (Vorschlag)
 
 
 | Pos      | Wert      | Bauform  | Bemerkung |
