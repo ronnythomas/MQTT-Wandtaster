@@ -70,7 +70,7 @@
 |Anschlussklemme | | |		AST 02 3,5 (Reichelt)
 
 
-* für Toutch wir benötigt
+* für Toutch wir benötigt<br />
 IC3
 IC2
 C2
@@ -80,7 +80,7 @@ C11
 C12
 C14
 
-* für LEDs wird benötigt
+* für LEDs wird benötigt<br />
 LED1
 LED2
 LED3
@@ -96,23 +96,23 @@ C3
 C1
 D2
 
-* für lichtsensor wird benötigt
+* für lichtsensor wird benötigt<br />
 IC6
 R4
 R5
 C16
 
-* Temaraturmessung DS18B20
+* Temaraturmessung DS18B20<br />
 R6
 ein oder mehrfach DS18B20
 
-* Temaratur / Feuchte / Lüftdruck
+* Temaratur / Feuchte / Luftdruck<br />
 IC5
-C8
+C8<br />
 Achtung! Es wird nicht die Raumtemp gemessen sonder die Gerätetemp!!
 
 * Vibra
-D3
+D3<br />
 Vibra 3V
 
 ////Sollte eine oder mehrere Funktionen nicht benötigt werden können die Bauteile weggelassen werden!////
