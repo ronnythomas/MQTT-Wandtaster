@@ -21,11 +21,11 @@
 
 | Pos      | Wert      | Bauform  | Bemerkung |
 | ---      | ---       | ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| D1       | 1N5819    |SOD-123   |           |
+|     | \|        |
 
 
-Pos	Wert		Bauform		Bemerkung <br />	
+	
 D1	1N5819		SOD-123 <br />
 D2	1N4001		SOD-123 <br />
 D3	1N5819		SOD-123 <br />
