@@ -22,8 +22,11 @@
 Pos	Wert		Bauform		Bemerkung		
 
 D1	1N5819		SOD-123
+
 D2	1N4001		SOD-123
+
 D3	1N5819		SOD-123
+
 C1	100nF		0805
 C2	10pF		0805
 C3	100nF		0805
@@ -111,7 +114,7 @@ IC5
 C8
 Achtung! Es wird nicht die Raumtemp gemessen sonder die Gerätetemp!!
 
-*Vibra
+* Vibra
 D3
 Vibra 3V
 
