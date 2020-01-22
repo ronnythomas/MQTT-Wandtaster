@@ -21,8 +21,7 @@
 
 Pos	Wert		Bauform		Bemerkung		
 
-D1	1N5819		SOD-123
-
+D1	1N5819		SOD-123 <br />
 D2	1N4001		SOD-123
 
 D3	1N5819		SOD-123
