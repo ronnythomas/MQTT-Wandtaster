@@ -121,7 +121,7 @@ IC5
 C8<br />
 Achtung! Es wird nicht die Raumtemp gemessen sonder die Gerätetemp!!
 
-* Vibra
+* Vibra<br />
 D3<br />
 Vibra 3V
 
