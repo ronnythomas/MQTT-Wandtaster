@@ -1,7 +1,7 @@
 # Mqtt Wandtaster für 55iger Rahmen
 
 ## Funktionen
--6 Toutch Taster mit ja 3 verschiedenen Belegungen (18 verschiedene aktionen möglich)<br />
+- 6 Toutch Taster mit ja 3 verschiedenen Belegungen (18 verschiedene aktionen möglich)<br />
 -je Toutch Taster eine RGB LED als Status<br />
 -Vibra als Rückmeldung<br />
 -eine RGB LED als Nacht oder Status Licht/Anzeige<br />
