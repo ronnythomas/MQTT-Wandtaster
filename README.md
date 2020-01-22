@@ -8,15 +8,15 @@
 -Lichsensor<br />
 -Temparatur / Feuche / Luftdruck Messung<br />
 
-##Anbindung
+## Anbindung
 -Mittels ESP8266 und ESPEasy können Daten aus z.b. IoBrocker enfangen bzw. gesendet werden<br />
 -Übertragung mittels Wifi<br />
 
-##Stromversorgung<br />
+## Stromversorgung<br />
 8-25V DC oder 5V DC max.500mA<br />
 
 
-##Bauteilliste komplett
+## Bauteilliste komplett
 
 
 Pos|	Wert|		Bauform	|	Bemerkung		
