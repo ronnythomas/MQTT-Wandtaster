@@ -19,7 +19,7 @@
 ## Bauteilliste komplett
 
 
-| Name     | Character |
+| Pos| Wert |Bauform |Bemerkung 
 | ---      | ---       |
 | Backtick | `         |
 | Pipe     | \|        |
