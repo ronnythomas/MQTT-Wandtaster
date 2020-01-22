@@ -51,7 +51,7 @@
 |IC5 |	BME280	 |	LGA-8	 |	Heißluft nötig 
 |IC6 |	BH1750FVI-TR |	WSOF-6I	 |	Lichtsensor 
 |IC7 |	ESP-12-F |	 
-|L1 |	22µH	 |	SMD,6x6x3mm  |
+|L1 |	22µH	 |	SMD,6x6x3mm  |min 500mA
 |LED1 |	WS2812C	 |	5050  |
 |LED2 |	WS2812C	 |	5050  |
 |LED3 |	WS2812C	 |	5050  |
