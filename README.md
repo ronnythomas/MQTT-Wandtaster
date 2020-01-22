@@ -69,8 +69,18 @@
 |DS18B20 |	 | |				Temp Messung
 |Anschlussklemme | | |		AST 02 3,5 (Reichelt)
 
+* für Netzteil wird benötigt (nur bei 8-25V) <br />
+IC1
+C20
+C18
+L1
+D1
+R1
+R2
+R3
 
-* für Toutch wir benötigt<br />
+
+* für Toutch wird benötigt<br />
 IC3
 IC2
 C2
