@@ -13,7 +13,7 @@
 - Übertragung mittels Wifi<br />
 
 ## Stromversorgung<br />
-8-25V DC oder 5V DC max.500mA<br />
+- 8-25V DC oder 5V DC max.500mA<br />
 
 
 ## Bauteilliste komplett (Vorschlag)
