@@ -65,8 +65,8 @@
 |R4 |	1k	 |	0805	 |	1/8W 
 |R5 |	1K	 |	0805	 |	1/8W 
 |R6 |	4k7	 |	0805	 |	1/8W 
-|Vibra  |
-|DS18B20 |					Temp Messung
+|Vibra  | | | 3V 
+|DS18B20 |	 | |				Temp Messung
 |Anschlussklemme | | |		AST 02 3,5 (Reichelt)
 
 
