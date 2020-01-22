@@ -9,7 +9,7 @@
 - Temparatur / Feuche / Luftdruck Messung<br />
 
 ## Anbindung
-- Mittels ESP8266 und ESPEasy können Daten aus z.b. IoBrocker enfangen bzw. gesendet werden<br />
+- Mittels ESP8266 und ESPEasy können Daten z.b.per MQTT aus IoBrocker enfangen bzw. gesendet werden<br />
 - Übertragung mittels Wifi<br />
 
 ## Stromversorgung<br />
