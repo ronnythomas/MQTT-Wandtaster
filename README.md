@@ -2,15 +2,15 @@
 
 ## Funktionen
 - 6 Toutch Taster mit ja 3 verschiedenen Belegungen (18 verschiedene aktionen möglich)<br />
--je Toutch Taster eine RGB LED als Status<br />
--Vibra als Rückmeldung<br />
--eine RGB LED als Nacht oder Status Licht/Anzeige<br />
--Lichsensor<br />
--Temparatur / Feuche / Luftdruck Messung<br />
+- je Toutch Taster eine RGB LED als Status<br />
+- Vibra als Rückmeldung<br />
+- eine RGB LED als Nacht oder Status Licht/Anzeige<br />
+- Lichsensor<br />
+- Temparatur / Feuche / Luftdruck Messung<br />
 
 ## Anbindung
--Mittels ESP8266 und ESPEasy können Daten aus z.b. IoBrocker enfangen bzw. gesendet werden<br />
--Übertragung mittels Wifi<br />
+- Mittels ESP8266 und ESPEasy können Daten aus z.b. IoBrocker enfangen bzw. gesendet werden<br />
+- Übertragung mittels Wifi<br />
 
 ## Stromversorgung<br />
 8-25V DC oder 5V DC max.500mA<br />
