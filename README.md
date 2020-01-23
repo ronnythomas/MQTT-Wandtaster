@@ -46,7 +46,7 @@
 |C20 |	22µF 35V |	0805	 |	Tantalum Case A	 
 |IC1 |	MC34063AD |	SOIC_8  |
 |IC2 |	TTP226	  |	SSOP-28	 |	TTP226-809SN 
-|IC3 |	PCF8574T |	SOIC-16  |
+|IC3 |	PCF8574T |	 SOIC-16_300mil  | 	PCF8574T/3,518
 |IC4 |	AMS1117-3.3 |	SOT-223  |
 |IC5 |	BME280	 |	LGA-8	 |	Heißluft nötig 
 |IC6 |	BH1750FVI-TR |	WSOF-6I	 |	Lichtsensor 
