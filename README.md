@@ -45,7 +45,7 @@
 |C19 |	100µF	 |	3216	 |	Tantalum Case A  | [Link](https://de.farnell.com/kemet/t490a107m006ate800/kondensator-100-f-6-3v-20/dp/2688578?st=100%C2%B5F%203216)	
 |C20 |	2.2µF 35V |	3216	 |	Tantalum Case A	  | [Link](https://de.farnell.com/vishay/tmcma1v225mtrf/kondensator-2-2-f-35v-20/dp/2491481)
 |IC1 |	MC34063AD |	SOIC_8  |  | [Link](https://de.farnell.com/texas-instruments/mc34063ad/dc-dc-conv-buck-boost-inv-soic/dp/3007277?st=MC34063AD)
-|IC2 |	TTP226	  |	SSOP-28	 |	TTP226-809SN 
+|IC2 |	TTP226	  |	SSOP-28	 |	TTP226-809SN | [Link](https://de.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200124090608&origin=y&SearchText=TTP226-809SN) Habe ggf noch welche da.
 |IC3 |	PCF8574T |	 SOIC-16_300mil  | 	PCF8574T/3,518  | [Link](https://de.farnell.com/nxp/pcf8574t-3-518/i-o-expander-8bit-8574-soic16/dp/1690393?st=PCF8574T/3,518)
 |IC4 |	AMS1117-3.3 |	SOT-223  |  | [Link](https://de.farnell.com/on-semiconductor/ncp1117lpst33t3g/ldo-festspann-regler-3-3v-1a-sot/dp/2534283?st=NCP%201117)
 |IC5 |	BME280	 |	LGA-8	 |	Heißluft nötig  | [Link](https://de.aliexpress.com/item/32950649541.html?spm=a2g0o.productlist.0.0.24a9298dzNO7gx&algo_pvid=48ae5f04-3659-4387-89c6-9dec3e903c76&algo_expid=48ae5f04-3659-4387-89c6-9dec3e903c76-23&btsid=ecb0f2d2-d1e5-4da8-9c8e-fb1363599ed2&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55)
