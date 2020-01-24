@@ -22,10 +22,10 @@
 | Pos      | Wert      | Bauform  | Bemerkung | Link |
 | ---      | ---       | ---      | ---       | --- |
 | D1       | 1N5819    |SOD-123   |           | [Link](https://de.farnell.com/diodes-inc/1n5819hw-7-f/gleichr-diode-schottky-1a-40v/dp/1773475?st=1N5819)
-| D2       |	1N4001	 |	SOD-123 | [Link](https://de.farnell.com/taiwan-semiconductor/ll4001g/gleichrichter-1fach-1a-50-do-213aa/dp/2677336?st=LL4001)
-| D3       |	1N5819	 |	SOD-123 | [Link](https://de.farnell.com/diodes-inc/1n5819hw-7-f/gleichr-diode-schottky-1a-40v/dp/1773475?st=1N5819)
-| C1       |	100nF	 |	0805  | [Link](https://de.farnell.com/avx/08051c104jat2a/kondensator-0-1-f-100v-5-x7r-0805/dp/2332715RL?st=100nF)
-| C2       | 	10pF |		0805 | [Link](https://de.farnell.com/kemet/c0805c100j5gactu/kondensator-10pf-50v-5-c0g-np0/dp/1414654?st=10pF)
+| D2       |	1N4001	 |	SOD-123 || [Link](https://de.farnell.com/taiwan-semiconductor/ll4001g/gleichrichter-1fach-1a-50-do-213aa/dp/2677336?st=LL4001)
+| D3       |	1N5819	 |	SOD-123 | |[Link](https://de.farnell.com/diodes-inc/1n5819hw-7-f/gleichr-diode-schottky-1a-40v/dp/1773475?st=1N5819)
+| C1       |	100nF	 |	0805  || [Link](https://de.farnell.com/avx/08051c104jat2a/kondensator-0-1-f-100v-5-x7r-0805/dp/2332715RL?st=100nF)
+| C2       | 	10pF |		0805 | |[Link](https://de.farnell.com/kemet/c0805c100j5gactu/kondensator-10pf-50v-5-c0g-np0/dp/1414654?st=10pF)
 |C3 |	100nF	|	0805 | | [Link](https://de.farnell.com/avx/08051c104jat2a/kondensator-0-1-f-100v-5-x7r-0805/dp/2332715RL?st=100nF)
 |C4 |	10pF	 |	0805  | | [Link](https://de.farnell.com/kemet/c0805c100j5gactu/kondensator-10pf-50v-5-c0g-np0/dp/1414654?st=10pF)
 |C5 |	10µF |		3216	 |	Tantalum Case A	 | [Link](https://de.farnell.com/kemet/t491a106k010ah/cap-tantalum-10uf-10v-case-a/dp/2676308) 
