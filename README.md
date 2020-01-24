@@ -69,7 +69,7 @@
 |DS18B20 |	 | |				Temp Messung  | [Link](https://de.aliexpress.com/item/32224580172.html?spm=a2g0o.productlist.0.0.2a039dc6wd4MvK&algo_pvid=2ad521e6-5fa1-4473-a525-fa6cdadbe045&algo_expid=2ad521e6-5fa1-4473-a525-fa6cdadbe045-1&btsid=eccfa8c1-4a33-47a6-8f80-3325d400e8ff&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55)
 |Anschlussklemme | | |		AST 02 3,5 (Reichelt)  | [Link](https://de.farnell.com/weidmuller/1825640000/reihenklemme-wire-to-board-2pos/dp/2853040?st=klemme)
 
-- Alles Links ohne Garantie!!!
+Alles Links ohne Gewähr! Teilweise sind die Bauelemente ein so kleinen Stückmengen ziemlich teuer!
 
 * für Netzteil wird benötigt (nur bei 8-25V) <br />
 IC1
