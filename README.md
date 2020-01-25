@@ -116,7 +116,7 @@ C16
 
 * Temaraturmessung DS18B20<br />
 R6
-ein oder mehrfach DS18B20
+ein oder mehrfach DS18B20 ausserhalb des Geheuses Platzieren!
 
 * Temaratur / Feuchte / Luftdruck<br />
 IC5
