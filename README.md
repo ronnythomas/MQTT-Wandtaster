@@ -70,7 +70,7 @@
 |Anschlussklemme | | |		AST 02 3,5 (Reichelt)  | [Link](https://lcsc.com/product-detail/Pluggable-System-Terminal-Block_METZ-CONNECT-GmbH-AST2130202_C123248.html)
 
 
-Alles Links ohne Gewähr! Teilweise sind die Bauelemente ein so kleinen Stückmengen ziemlich teuer!
+Alles Links ohne Gewähr! Leider habe ich keine Lieferant gefunden der in DE alle Teile hat deshalb dieser aus China.
 
 * für Netzteil wird benötigt (nur bei 8-25V) <br />
 IC1
