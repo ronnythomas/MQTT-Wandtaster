@@ -142,6 +142,8 @@ Vibra 3V
 ![complete](Images/3.jpg)
 ![complete](Images/4.jpg)
 ![complete](Images/5.jpg)
+![complete](Images/6.jpg)
+![complete](Images/7.jpg)
 
 
 
